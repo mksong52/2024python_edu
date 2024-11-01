@@ -1,4 +1,4 @@
-import steramlit as st
+import streamlit as st
 
 st.tiltle('나의 첫 스트림릿 웹앱')
 name=st.text_input('이름을 입력해주세요 : ')
